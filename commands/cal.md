@@ -1,0 +1,2 @@
+    cal
+    -> Shows calendar

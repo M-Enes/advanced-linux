@@ -1,0 +1,2 @@
+    pwd
+    -> Prints working directory

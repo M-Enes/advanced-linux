@@ -1,0 +1,2 @@
+    date
+    -> Shows system time
